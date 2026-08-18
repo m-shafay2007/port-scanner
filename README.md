@@ -7,6 +7,7 @@ A Python-based network port scanner built for security reconnaissance.
 - Scans a range of ports
 - Detects open ports
 - Saves results to a file
+- Tell services name running on open ports
 
 ## How to use
 
