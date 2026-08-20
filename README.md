@@ -1,6 +1,7 @@
 #  Port Scanner
 
 A Python-based network port scanner built for security reconnaissance.
+
 WARNING: This tool is for educational purposes only.
 Use only on systems you own or have explicit permission to test.
 Unauthorized use is illegal and unethical.
