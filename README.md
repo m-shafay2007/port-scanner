@@ -1,7 +1,9 @@
 #  Port Scanner
 
 A Python-based network port scanner built for security reconnaissance.
-
+WARNING: This tool is for educational purposes only.
+Use only on systems you own or have explicit permission to test.
+Unauthorized use is illegal and unethical.
 ##  What it does
 - Takes target IP from user
 - Scans a range of ports
@@ -24,4 +26,4 @@ Port 443 -- OPEN
 ## 👨‍💻 Author
 Muhammad Shafay Hussain  
 BS Software Engineering | Cloud Security Enthusiast  
-Building a 300-day roadmap to Germany 🇩🇪
+
